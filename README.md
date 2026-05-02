@@ -73,7 +73,7 @@ The **Real Estate Management System** is a modern web-based application develope
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/real-estate-project.git
+git clone https://github.com/snehalsarvade02-afk/real-estate-project.git
 ```
 
 2. Navigate to project folder
@@ -120,7 +120,7 @@ This project provides a digital solution for real estate management, making the 
 
 ## 👨‍💻 Author
 
-* Sajid Sayyad
+* Snehal Sarvade
 
 ---
 
