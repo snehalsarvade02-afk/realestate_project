@@ -102,6 +102,20 @@ python app.py
 
 ---
 
+⚠️ Important Note (Files Removed)
+❌ node_modules/ folder removed from repository (because it is too large)
+❌ .env file not uploaded (for security)
+👉 These files will be automatically created during setup
+
+---
+
+Install Required Files
+🔹 Install frontend dependencies
+npm install
+👉 This will recreate node_modules automatically
+
+---
+
 ## 📈 Future Enhancements
 
 * Online payment integration (Razorpay / Stripe)
